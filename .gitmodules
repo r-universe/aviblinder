@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rtrends"]
+	path = rtrends
+	url = https://github.com/aviblinder/rtrends
+	shallow = true
+	registered = true
+[submodule "tsSelect"]
+	path = tsSelect
+	url = https://github.com/aviblinder/tsselect
+	shallow = true
+	registered = true
